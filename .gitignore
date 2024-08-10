@@ -1,3 +1,4 @@
 .env
 data/pdfs/*
+src/__pycache__/
 chatbot_env/
