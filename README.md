@@ -1,5 +1,7 @@
 # Projeto
-Este é um projeto base para criação de chatbots com RAG usando LangChain e o modelo de linguagem da OpenAI.
+Este é um projeto console base para criação de chatbots com RAG usando LangChain e o modelo de linguagem da OpenAI. Nele você poderá salvar PDFs em uma pasta e fazer com que o chatbot responda com informações obtidades dele.
+
+É um projeto base. Não espere muito dele :)
 
 ## 1. Pré-requisitos
 - Certifique-se de ter o Python 3.12.5 instalado em seu sistema.
