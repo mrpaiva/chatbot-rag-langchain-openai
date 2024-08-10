@@ -37,14 +37,9 @@ Para executar o projeto, você pode rodar o script principal:
 python src/main.py
 ```
 
-Isso provavelmente iniciará o chatbot ou outro processo principal descrito no projeto.
-
 ## 6. Estrutura de Arquivos e Pastas
 - `src/chatbot.py`: Contém a lógica do chatbot.
 - `src/main.py`: Ponto de entrada do projeto.
 - `src/rag_pipeline.py`: Lida com a pipeline RAG (Retrieval-Augmented Generation).
 - `config/config.py`: Arquivo de configuração usado pelo projeto.
 - `data/pdfs/`: Diretório onde ficam armazenados os PDFs usados para análise ou busca.
-```
-
-Este Markdown está organizado e fácil de ler, pronto para ser usado em um arquivo README ou documentação. Se precisar de mais alguma coisa, é só avisar!
