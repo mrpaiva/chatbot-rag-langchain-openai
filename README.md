@@ -1,7 +1,6 @@
 # Projeto
 Este é um projeto base para criação de chatbots com RAG usando LangChain e o modelo de linguagem da OpenAI.
 
-```markdown
 ## 1. Pré-requisitos
 - Certifique-se de ter o Python 3.12.5 instalado em seu sistema.
 - Instale o Git se ainda não tiver, para clonar repositórios e gerenciar o código (opcional).
