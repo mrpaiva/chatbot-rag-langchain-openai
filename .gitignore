@@ -1,0 +1,3 @@
+.env
+data/pdfs/*
+chatbot_env/

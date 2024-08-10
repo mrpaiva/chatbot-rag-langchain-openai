@@ -1,0 +1,10 @@
+transformers
+openai
+langchain
+langchain_community
+langchain-huggingface
+pypdf2
+pdfminer.six
+faiss-cpu
+python-dotenv
+torch
